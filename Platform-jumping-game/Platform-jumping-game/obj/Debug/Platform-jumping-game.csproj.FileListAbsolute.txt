@@ -1,0 +1,10 @@
+C:\Users\kra0\source\repos\Platform-jumping-game\Platform-jumping-game\bin\Debug\Platform-jumping-game.exe.config
+C:\Users\kra0\source\repos\Platform-jumping-game\Platform-jumping-game\bin\Debug\Platform-jumping-game.exe
+C:\Users\kra0\source\repos\Platform-jumping-game\Platform-jumping-game\bin\Debug\Platform-jumping-game.pdb
+C:\Users\kra0\source\repos\Platform-jumping-game\Platform-jumping-game\obj\Debug\Platform-jumping-game.csproj.AssemblyReference.cache
+C:\Users\kra0\source\repos\Platform-jumping-game\Platform-jumping-game\obj\Debug\Platform_jumping_game.Form1.resources
+C:\Users\kra0\source\repos\Platform-jumping-game\Platform-jumping-game\obj\Debug\Platform_jumping_game.Properties.Resources.resources
+C:\Users\kra0\source\repos\Platform-jumping-game\Platform-jumping-game\obj\Debug\Platform-jumping-game.csproj.GenerateResource.cache
+C:\Users\kra0\source\repos\Platform-jumping-game\Platform-jumping-game\obj\Debug\Platform-jumping-game.csproj.CoreCompileInputs.cache
+C:\Users\kra0\source\repos\Platform-jumping-game\Platform-jumping-game\obj\Debug\Platform-jumping-game.exe
+C:\Users\kra0\source\repos\Platform-jumping-game\Platform-jumping-game\obj\Debug\Platform-jumping-game.pdb
